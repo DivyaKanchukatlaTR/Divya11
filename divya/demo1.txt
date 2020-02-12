@@ -1,11 +1,1 @@
-cument.getElementById("UserRights").value = document.getElementById("UserRights").value + "<%=USRT_FTROLLBACK%>,";
-            }
-            //Data Update
-            if (document.getElementById("chkSupUpdate").checked) {
-                document.getElementById("UserRights").value = document.getElementById("UserRights").value + "<%=USRT_FTUPDATE%>,";
-            }
-            //Data retrieval
-            if (document.getElementById("chkSupRetrieve").checked) {
-                document.getElementById("UserRights").value = document.getElementById("UserRights").value + "<%=USRT_FTRETRIEVE%>,";
-            }
-            //Copy To Test
+Kalyani utthi pichidi
